@@ -1,5 +1,6 @@
 {
   "name": "prvni-app",
+  "homepage": "https://jakubzeiner.cz/expenses/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
