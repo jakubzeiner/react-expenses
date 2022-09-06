@@ -1,6 +1,7 @@
 .expenses {
   padding: 1rem;
-  background-color: rgb(31, 31, 31);
+  /* background-color: #155300; */
+  background-image: linear-gradient(to left bottom, #051937, #004d7a, #008793, #00bf72, #a8eb12);
   margin: 2rem auto;
   width: 50rem;
   max-width: 95%;
